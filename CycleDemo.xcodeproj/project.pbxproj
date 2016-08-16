@@ -101,6 +101,7 @@
 		D1228F221D62E7F400DBFBD9 /* CycleDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D1228F561D62E81C00DBFBD9 /* Resource */,
 				D1228F261D62E7F400DBFBD9 /* AppDelegate.h */,
 				D1228F271D62E7F400DBFBD9 /* AppDelegate.m */,
 				D1228F291D62E7F400DBFBD9 /* ViewController.h */,
@@ -138,6 +139,13 @@
 				D1228F4A1D62E7F400DBFBD9 /* Info.plist */,
 			);
 			path = CycleDemoUITests;
+			sourceTree = "<group>";
+		};
+		D1228F561D62E81C00DBFBD9 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
